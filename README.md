@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @hazwanrafi
-- 👀 I’m currently under the CADS-Yayasan Peneraju Data Star Programme as a Data Analytics Trainee
-- 🌱 I’m currently learning Tableau, Python, SQL and NoSQL
-- 💞️ I’m looking to apply for any Junior Data Analyst/Trainee position 
+- 👀 I’m a Geoscientist but I like to learn data analytics during my free time. Data visualisation/storytelling is awesome!! 
+- 🌱Before this, I've learnt Python, Power BI, SQL under the CADS-Yayasan Peneraju Data Star Programme as a Data Analytics Trainee. 
+- 💞️ Feel free to look at my stuffs that I've created during my spare time! 
 - 📫 How to reach me hazwanrafi@yahoo.com
